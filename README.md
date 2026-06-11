@@ -51,12 +51,10 @@ Flip cards, discover matching pairs, track moves, and challenge yourself to comp
 
 Add your screenshots here.
 
-```md
-![Game Dashboard](PASTE_SCREENSHOT_LINK)
-![Gameplay](PASTE_SCREENSHOT_LINK)
-```
+<img width="1904" height="992" alt="Image" src="https://github.com/user-attachments/assets/42c0a77d-171c-4add-b585-355beeb62111" />
 
----
+<img width="1920" height="985" alt="Image" src="https://github.com/user-attachments/assets/445efa18-bbde-4cb9-a5f6-67310c3e4954" />
+
 
 ## 📂 Project Structure
 
