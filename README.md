@@ -9,6 +9,10 @@ Flip the cards, match the emojis, and test your memory!
 - Move counter to track performance
 - Clean and responsive UI
 
+  ##Live Demo
+  
+  https://neuro-match-weld.vercel.app/
+
 ## 🛠️ Tech Stack
 - React
 - Vite
@@ -17,6 +21,9 @@ Flip the cards, match the emojis, and test your memory!
 
 ## 📦 Installation & Setup
 
-Clone the repository:
-```bash
-git clone https://github.com/SushantSingh1029/memory-match-game.git
+👨‍💻 Author
+Akash Singh
+
+GitHub: https://github.com/akashsingh77-ux
+
+⭐ Star the repository if you like it.
